@@ -38,7 +38,7 @@ main(void){
 
 	printf("\n\n%c%c%c Coin credit \nDollars: $%.d  \nChange: %d cents. \nOr $%d.%d\n\n", i1, i2, i3, total_dollars, change, total_dollars, change);
 
-
+	// added a comment from the local machine
 
 
 
