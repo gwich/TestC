@@ -2,6 +2,7 @@
 
 int 
 main(void){
+	// test from git hub
 	char i1, i2, i3;
 	int dollars, quarters, dimes, nickels, pennies;
 
